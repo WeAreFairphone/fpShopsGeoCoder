@@ -1,0 +1,15 @@
+{
+  "name": "FPshopsGeoCoder",
+  "version": "0.1.0",
+  "description": "Read adresses from a CSV file and save their geolocation to a JSON file.",
+  "main": "geocode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WeAreFairphone",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "babyparse": "^0.4.6",
+    "node-geocoder": "^3.16.0"
+  }
+}
