@@ -28,7 +28,7 @@ var SHOP_FILES_URLS = [["AT","Austria", "at"], ["BE","Belgium", "be"], ["CH","Sw
     country = {
       country: country[1],
       iso: country[2],
-      url: "..\\..\\data\\input\\Fairphone physical touch points " + country[0] + " - " + country[1] + ".csv"
+      url: "..\\data\\input\\Fairphone physical touch points " + country[0] + " - " + country[1] + ".csv"
     };
     return country;
 });
@@ -73,7 +73,7 @@ async function main() {
 
   await Promise.all(accu);
 
-  fs.writeFileSync('..\\..\\data\\output\\shops.json',JSON.stringify(shopsWithLocation));
+  fs.writeFileSync('..\\data\\output\\shops.json',JSON.stringify(shopsWithLocation));
   console.log('All but '+i+' shops with locations were saved to file! Hooray!!!');
 
 

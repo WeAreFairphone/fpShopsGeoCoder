@@ -1,4 +1,4 @@
-Name point,site,Address,Zipcode,City,Phone number,Name Retailer/Venue/Museum,Status,Phone ON,Entrance fee?,Opening Hours,Start date,End date ,Approved by sales,Added to map,Deleted from map
+Name point,site,Address,Zipcode,City,Phone number,Name Retailer/Venue/Museum,Status,Phone ON,Entrance fee?,Opening hours,Start date,End date ,Approved by sales,Added to map,Deleted from map
 Circle,http://www.circleshop.net/content/34-fairphone,Brunngasse 3,8001,Zürich,0041432436921,Circle - The sustainable shop,Reseller,yes,No,,05.12.2016,,Yes,,
 Digitec Galaxus AG,https://www.digitec.ch/de/site/246967,Steinentorberg 20,4051,Basel,,Digitec Galaxus AG Markthalle,"Reseller showroom, no sales point",yes,No,"Mo-Fr: 10:00-19:00
 Sa: 09:00-17:00",,,,,
@@ -29,5 +29,5 @@ Faircustomer,https://www.faircustomer.ch/de/index.php?controller=stores,Heinrich
 Th:  10–13 Uhr
 We:  10–13 Uhr
 Fr:  10–13 Uhr",early 2016,,"yes, tina",,
-why! open computing SA,whyopencomputing.ch,Route de Renens 4,1008,Prilly,,La Bonne Combine,Reseller shop,yes,no,"Mo -Fri: 09:00-12.15 / 13:15-18:30 
+why! open computing SA,whyopencomputing.ch,Route de Renens 4,1008,Prilly,,La Bonne Combine,Reseller shop,yes,no,"Mo -Fri: 09:00-12.15 / 13:15-18:30
 Sa:10:00 - 13:00",24-2-2017,,Romane,24/2/2017,
